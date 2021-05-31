@@ -1,0 +1,2 @@
+This is my first file using git bash commands
+I will first stage it, commit it and push it to github.com
